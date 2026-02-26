@@ -1,0 +1,11 @@
+Model Information:
+* title:	SONY CAMERA 4K
+* source:	https://sketchfab.com/3d-models/sony-camera-4k-f7c8d7831aa24f979ff531934c8439de
+* author:	Arham Abdullah (https://sketchfab.com/arhamabdullahanimates)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SONY CAMERA 4K" (https://sketchfab.com/3d-models/sony-camera-4k-f7c8d7831aa24f979ff531934c8439de) by Arham Abdullah (https://sketchfab.com/arhamabdullahanimates) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
