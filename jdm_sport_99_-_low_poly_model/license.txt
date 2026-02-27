@@ -1,0 +1,11 @@
+Model Information:
+* title:	JDM Sport '99 - Low Poly model
+* source:	https://sketchfab.com/3d-models/jdm-sport-99-low-poly-model-6dd4ae19c454414d9eed2bc524515d78
+* author:	Daniel Zhabotinsky (https://sketchfab.com/DanielZhabotinsky)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "JDM Sport '99 - Low Poly model" (https://sketchfab.com/3d-models/jdm-sport-99-low-poly-model-6dd4ae19c454414d9eed2bc524515d78) by Daniel Zhabotinsky (https://sketchfab.com/DanielZhabotinsky) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
