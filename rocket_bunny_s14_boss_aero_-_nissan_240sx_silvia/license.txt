@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rocket Bunny S14 Boss Aero - Nissan 240SX Silvia
+* source:	https://sketchfab.com/3d-models/rocket-bunny-s14-boss-aero-nissan-240sx-silvia-15c1111d9c5149d4ab81cbbe2e04c7e7
+* author:	Ddiaz Design (https://sketchfab.com/ddiaz-design)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rocket Bunny S14 Boss Aero - Nissan 240SX Silvia" (https://sketchfab.com/3d-models/rocket-bunny-s14-boss-aero-nissan-240sx-silvia-15c1111d9c5149d4ab81cbbe2e04c7e7) by Ddiaz Design (https://sketchfab.com/ddiaz-design) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
