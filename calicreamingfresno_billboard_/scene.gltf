@@ -238,7 +238,7 @@
   ],
   "images": [
     {
-      "uri": "https://raw.githubusercontent.com/AutoLNK/3dmodels/main/calicreaming_cover.png"
+      "uri": "textures/material_baseColor.png"
     },
     {
       "uri": "textures/Walkway_Grate_baseColor.png"
